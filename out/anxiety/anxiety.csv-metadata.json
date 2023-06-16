@@ -1,7 +1,5 @@
 {
-    "@context": {
-        "base":"http://www.w3.org/ns/csvw"
-    },
+    "@context": {"name":"http://www.w3.org/ns/csvw"},
     "@id": "anxiety.csv#dataset",
     "tables": [
         {
