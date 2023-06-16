@@ -1,5 +1,5 @@
 {
-    "@context":["http://www.w3.org/ns/csvw", {"language":"en"}],
+    "@context":"http://www.w3.org/ns/csvw#",
     "url":"anxiety.csv",
     "@id": "anxiety.csv#dataset",
     "tables": [
