@@ -1,6 +1,5 @@
 {
     "@context":["http://www.w3.org/ns/csvw", {"@language": "en"}],
-    "null": true,
     "@id": "anxiety.csv#dataset",
     "tables": [
         {
