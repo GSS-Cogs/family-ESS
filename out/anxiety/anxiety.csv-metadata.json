@@ -1,10 +1,9 @@
 {   
-    "@type": "TableGroup",
     "@context":"http://www.w3.org/ns/csvw",
-    "url": "anxiety.csv",
     "@id": "anxiety.csv#dataset",
     "tables": [
-        {
+        {   
+            "@context":"http://www.w3.org/ns/csvw",
             "url": "anxiety.csv",
             "tableSchema": {
                 "columns": [
