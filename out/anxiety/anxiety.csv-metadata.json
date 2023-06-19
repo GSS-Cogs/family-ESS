@@ -1,6 +1,6 @@
 {
-    "@context":{"context":"http://www.w3.org/ns/csvw",
-                "url":"anxiety.csv"},
+    "@context":"http://www.w3.org/ns/csvw",
+    "url":"anxiety.csv",
     "@id": "anxiety.csv#dataset",
     "tables": [
         {
