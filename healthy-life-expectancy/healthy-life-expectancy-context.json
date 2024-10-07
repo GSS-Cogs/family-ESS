@@ -69,58 +69,83 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "name": "indicator",
-                        "titles": "indicator",
+                        "name": "AREACD",
+                        "titles": "Area Code",
                         "datatype": "string"
                     },
                     {
-                        "name": "areacd",
-                        "titles": "area_code",
+                        "name": "AREANM",
+                        "titles": "Area Name",
                         "datatype": "string"
                     },
                     {
-                        "name": "areanm",
-                        "titles": "area_name",
+                        "name": "Geography",
+                        "titles": "Geography",
                         "datatype": "string"
                     },
                     {
-                        "name": "geography",
-                        "titles": "geography",
+                        "name": "Variable Name",
+                        "titles": "Variable Name",
                         "datatype": "string"
                     },
                     {
-                        "name": "observation",
-                        "titles": "observation",
+                        "name": "Indicator",
+                        "titles": "Indicator",
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Mission",
+                        "titles": "Mission",
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Category",
+                        "titles": "Category",
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Period",
+                        "titles": "Period",
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Observation",
+                        "titles": "Observation",
                         "datatype": "decimal"
                     },
                     {
-                        "name": "unit",
-                        "titles": "unit",
+                        "name": "Measure",
+                        "titles": "Measure",
                         "datatype": "string"
                     },
                     {
-                        "name": "measure",
-                        "titles": "measure",
+                        "name": "Unit",
+                        "titles": "Unit",
                         "datatype": "string"
                     },
                     {
-                        "name": "period",
-                        "titles": "period",
-                        "datatype": "string"
-                    },
-                    {
-                        "name": "lower_confidence_interval_95",
-                        "titles": "lower_confidence_interval_95",
+                        "name": "Lower Confidence Interval (95%)",
+                        "titles": "Lower Confidence Interval (95%)",
                         "datatype": "decimal"
                     },
                     {
-                        "name": "upper_confidence_interval_95",
-                        "titles": "upper_confidence_interval_95",
+                        "name": "Upper Confidence Interval (95%)",
+                        "titles": "Upper Confidence Interval (95%)",
                         "datatype": "decimal"
                     },
                     {
-                        "name": "observation_status",
-                        "titles": "observation_status",
+                        "name": "Observation Status",
+                        "titles": "Observation Status",
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Polarity",
+                        "titles": "Polarity",
+                        "datatype": "string"
+                    },
+                    {
+                        "name": "Notes",
+                        "titles": "Notes",
                         "datatype": "string"
                     }
                 ]

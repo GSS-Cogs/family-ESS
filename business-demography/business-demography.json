@@ -1,5 +1,5 @@
 {
-    "$schema": "https://purl.org/csv-cubed/qube-config/v1.0",    
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1",    
     "title": "Business demography",
     "creator": "https://www.gov.uk/government/organisations/office-for-national-statistics",
     "summary": "Count of business births, deaths, actives, and high growth businesses, UK, 2017 to 2022.",
